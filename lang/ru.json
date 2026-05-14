@@ -1,0 +1,98 @@
+{
+    "Dashboard": "Панель",
+    "Administration home: shortcuts to sections and summry information will appear here.": "Сводка и быстрые передходы по разделам — здесь.",
+
+    "System": "Система",
+    "Centers": "Центры",
+    "Children": "Дети",
+    "Cards": "Карточки",
+    "Card sets": "Наборы карточек",
+    "Family accounts": "Семейные аккаунты",
+    "Teacher assignments": "Закрепления педагогов",
+    "Users": "Пользователи",
+    "Roles": "Роли",
+    "Profile": "Профиль",
+    "Create": "Создание",
+
+    "Centers in the system: contacts, address, and assignment of a center administrator.": "Центры: контакты, адрес, администратор.",
+    "Learners registered in the platform: personal data and links to centers and programs.": "Дети: данные и связь с центрами и программами.",
+    "Teaching cards: title, illustration, and audio materials.": "Карточки: название, картинка, звук.",
+    "Aggregations of cards used in lessons and child programs.": "Наборы карточек для занятий и программ.",
+    "Family units linking parents and children to shared access and content.": "Семьи: родители, дети, общий досуп.",
+    "Which teacher works with which child — for scheduling and progress tracking.": "Кто из педагогов с каким ребёнком: расписание и прогресс.",
+
+    "Overview": "Обзор",
+
+    "User Management": "Пользователи",
+    "A comprehensive list of all registered users, including their profiles and privileges.": "Список учётных записей, роли и права.",
+    "Role Management": "Роли",
+    "A comprehensive list of all roles, including their permissions and associated users.": "Роли платформы и их права.",
+    "Edit Role": "Редактирование роли",
+    "Create Role": "Создание роли",
+    "Modify the privileges and permissions associated with a specific role.": "Настройка прав роли.",
+    "Role": "Роль",
+    "Defines a set of privileges that grant users access to various services and allow them to perform specific tasks or operations.": "Набор  прав доступа к разделам админки.",
+    "Permission/Privilege": "Права",
+    "A privilege is necessary to perform certain tasks and operations in an area.": "Права нужны для операция в разделах.",
+
+    "Edit User": "Редактирование пользователя",
+    "Create User": "Создание пользователя",
+    "User profile and privileges, including their associated role.": "Профиль, роль Orchid и дополнительные права.",
+
+    "My Account": "Мой аккаунт",
+    "Update your account details such as name, email address and password": "Имя, email и пароль.",
+    "Profile Information": "Профиль",
+    "Update your account's profile information and email address.": "Имя, email и данные профиля.",
+    "Ensure your account is using a long, random password to stay secure.": "Надёжный пароль — длинный и уникальный.",
+    "Update Password": "Смена пароля",
+    "Update password": "Обновить пароль",
+    "Password changed.": "Пароль изменён",
+    "Profile updated.": "Профиль обновлён",
+
+    "Name": "Имя",
+    "Email": "Email",
+    "Created": "Создано",
+    "Last edit": "Изминено",
+    "Actions": "Действия",
+    "Edit": "Редактировать",
+    "Delete": "Удалить",
+    "Add": "Добавить",
+    "Save": "Сохранить",
+    "Remove": "Удалить",
+    "Slug": "Код (slug)",
+    "Once the account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.": "Удаление безвозвратно. При необходимости сохраните данные заранее",
+
+    "Impersonate user": "Войти как пользователь",
+    "You can revert to your original state by logging out.": "Выйдите из системы, чтобы вернуться к своей учётной записи.",
+    "You are now impersonating this user": "Вы вошли под выбранным пользователем",
+
+    "Enter the current password": "Текущий пароль",
+    "Current password": "Текущий пароль",
+    "Enter the password to be set": "Новый пароль",
+    "New password": "Новый пароль",
+    "Confirm new password": "Подтверждение пароля",
+    "Leave empty to keep current password": "Оставьте пустым, чтобы не менять пароль",
+
+    "Name role": "Название роли",
+    "Role display name": "Отображаемое имя роли",
+    "Actual name in the system": "Технический идентификатор",
+
+    "A Role defines a set of tasks a user assigned the role is allowed to perform.": "Роль задаёт набор доступных действий.",
+    "Allow the user to perform some actions that are not provided for by his roles": "Дополнительные права поверх ролей",
+
+    "Permissions": "Права",
+    "User was saved.": "Пользователь сохранён.",
+    "User was removed": "Пользователь удалён",
+    "Role was saved": "Роль сохранен",
+    "Role was removed": "Роль удалена",
+
+    "Regular User": "Обычный пользователь",
+
+    "Sign in to your account": "Вход в учётную запись",
+
+    "Filters": "Фильтры",
+    "Cancel": "Отмена",
+    "Are you sure?": "Вы уверен?",
+    "Description": "Описание",
+    "Password": "Пароль"
+}
